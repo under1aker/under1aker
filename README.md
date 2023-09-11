@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @under1aker
-- 👀 I’m interested in cyber security
+- Currently studied
+- 👀 Interested in cyber security
 
 <!---
 under1aker/under1aker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
