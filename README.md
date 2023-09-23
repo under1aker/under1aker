@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @under1aker
-- Currently studied
+- Currently learning something new
 - 👀 Interested in cyber security, web3 and fintech
 
 <!---
