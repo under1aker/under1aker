@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @under1aker
+- 👋 Hi, I’m undertaker (@under1aker)
 - Currently learning something new
 - 👀 Interested in cyber security, web3 and fintech
 
